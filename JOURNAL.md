@@ -10,9 +10,24 @@ This is my journal of the design and building process of **BuddyBoard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/542).
 
 
-## 10/16/2025 - placed the components   
+## 10/16/2025 12 PM - placed the components   
 
 i finalized the components i am going to use and imported the library in kicad and added them in the sch editor . I will be using esp32 s3 , mpu 6050 , 3 usb c ports , one oled and a bme680 sensor. one usb c will be used as upstream usb to power everything whereas 2 usb will be used for powering other things so just downstream ports 
 ![Screenshot 2025-10-16 123503.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ed4ea38de083d4e135af73c35ccaef5e27dbfd/Screenshot%202025-10-16%20123503.png)
+  
+
+## 10/16/2025 4 PM - assignined names values and footprints   
+
+In this 3 hour , i imported the symbols and footprints from 3rd party library .
+It was hard to configure the type of symbol and values at first .
+it Literally took me 2 hours just to set things up and give name to it .
+
+I gave name to all the components by the value feature of kicad , then i gave it the footprints it required to make the pcb . 
+
+Now i will do the connections between all the components in the next 4 hour session 
+
+-image1 : image  of the naming i gave . I followed standard practice for naming the components ![Screenshot 2025-10-16 164345.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7ec69cbc85c6116b5b0fedbf24a8a2dee7a924a/Screenshot%202025-10-16%20164345.png)
+- iamge 2 : image of all the footprints i assigned to the components . 
+ ![Screenshot 2025-10-16 164752.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--610a6b19ad2a7847633d36d0c30444c272e73404/Screenshot%202025-10-16%20164752.png)
   
 
