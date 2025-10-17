@@ -31,3 +31,26 @@ Now i will do the connections between all the components in the next 4 hour sess
  ![Screenshot 2025-10-16 164752.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--610a6b19ad2a7847633d36d0c30444c272e73404/Screenshot%202025-10-16%20164752.png)
   
 
+## 10/17/2025 - almost done with planning the connections (almost died)  
+
+ok so today i opened kicad thinking yeah i’ll just do some neat routing and finish early. big lie. big mistake. the blue lines are everywhere. they move. they taunt me. i swear one of them changed direction just to confuse me.
+
+decided to be smart and plan things first. gnd first then power then signal. but now it looks like all of them got mixed up and had a party on my board. even gnd is judging me.
+
+erc check keeps screaming at me like some angry robot. "clearance violation" "unconnected pad" "floating net" ok chill bro im floating too.
+
+i moved the same component like 18 times. nothing fits. every time i think its fine, kicad says nope. feels personal at this point.
+
+had a brilliant strategy written down —
+nets : gnd of usbs, sda scl between i2c things
+strategy : divide 5v, route vbus, send data to esp
+yeah sounds cool until i actually try to do it. now it’s just chaos and regret.
+
+also i think my brain has officially short circuited. maybe i need ground stitching vias for my sanity.
+
+anyway i look like im planning or something but mostly just staring at the screen thinking “why so many connections”
+tbh i dont know what i even did today . just stared at the screen for 4 hours with no visible solutions ![Screenshot 2025-10-17 161320.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--8ca19fb55ea075bd73f2c99e06c5dfeaf0c9043b/Screenshot%202025-10-17%20161320.png)
+
+end of log. tomorrow we fight again. maybe. 
+  
+
