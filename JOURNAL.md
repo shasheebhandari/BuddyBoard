@@ -54,3 +54,28 @@ tbh i dont know what i even did today . just stared at the screen for 4 hours wi
 end of log. tomorrow we fight again. maybe. 
   
 
+## 10/18/2025 - started doing the connecrions and i almost lost my sanity  
+
+okayy guys i am still alive somehow but not sure if i still have my sanity or it got shorted somewhere between vbus and cc1  these last 6 hours have been pure madness . first i thought i’ll be smart and wire all the usbs together you know nice and clean like those cool youtube pcb tutorials . yeah no . five minutes later it looked like someone dropped a bowl of blue noodles on my screen .
+
+routing vbus and cc1 cc2 was like playing twister with electricity . every time i fixed one connection another one screamed at me . even the whole a4 workspace was looking tooo small like bro where did all my space go i just placed 3 components what the heck .
+
+at one point i zoomed out and just stared at it wondering if i accidentally designed a subway map instead of a pcb . tried to move one trace and the entire board said nah we moving too .
+
+the erc check keeps bullying me like "clearance violation" ok fine but have u seen my life clearance lately 
+i swear kicad enjoys this pain its sitting there like "hmm lets throw another unconnected net just for fun"
+
+anyway i think i invented new swear words today while chasing that one missing gnd connection . still not sure if i found it or just gave up emotionally .
+
+coffee count : 4
+brain cells : 0
+progress : questionable
+
+but hey the board looks kinda artistic now if you squint hard enough maybe picasso would be proud
+
+ok log done for today i need to go stare at a wall that doesn’t have blue lines on it
+
+
+image of the usb connection : ![Screenshot 2025-10-16 175629.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc0b22bd8540a1528a5c9b6723e934ced2f1144/Screenshot%202025-10-16%20175629.png)
+  
+
