@@ -79,3 +79,18 @@ ok log done for today i need to go stare at a wall that doesn’t have blue line
 image of the usb connection : ![Screenshot 2025-10-16 175629.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc0b22bd8540a1528a5c9b6723e934ced2f1144/Screenshot%202025-10-16%20175629.png)
   
 
+## 10/19/2025 - finished connections and routing of the pcb   
+
+Due to festive season here in Nepal , my progress has been really really slow . I tried few lock in periods but i wasnt that succesful , 
+
+Here's the update since last journal :
+1. I finished most of the connections in sch file.  ![Screenshot 2025-10-16 123937.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5MywicHVyIjoiYmxvYl9pZCJ9fQ==--05206510505201855584a7f30afc6faf3fb468f4/Screenshot%202025-10-16%20123937.png)
+
+2. I converted the sch to the pcb . 
+It literally took me so much time to route the pcb and pass those drc . Had almost 300+ error in the first drc run but after a 3 hr grind i was able to complete it .
+
+![Screenshot 2025-10-19 101648.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bc6abea20a7872f732e2868663bc2a99294b5320/Screenshot%202025-10-19%20101648.png)
+
+
+I finally completed the pcb part of the project . I need to upload the file to the github and make one 3d printed case for the pcb . see ya!  
+
