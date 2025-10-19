@@ -79,7 +79,7 @@ ok log done for today i need to go stare at a wall that doesn’t have blue line
 image of the usb connection : ![Screenshot 2025-10-16 175629.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc0b22bd8540a1528a5c9b6723e934ced2f1144/Screenshot%202025-10-16%20175629.png)
   
 
-## 10/19/2025 - finished connections and routing of the pcb   
+## 10/19/2025 10 AM - finished connections and routing of the pcb   
 
 Due to festive season here in Nepal , my progress has been really really slow . I tried few lock in periods but i wasnt that succesful , 
 
@@ -93,4 +93,16 @@ It literally took me so much time to route the pcb and pass those drc . Had almo
 
 
 I finally completed the pcb part of the project . I need to upload the file to the github and make one 3d printed case for the pcb . see ya!  
+
+## 10/19/2025 2 PM - Made the outer casing   
+
+I am actually so close to finishing this project . I have now made a design that would hold the pcb in place . I have decided to keep the front side transparent , i will use transparent fiber glass in front to show the screen and the whole pcb and every other side would be 3d printed in PLA . 
+
+the 3d printed pcb case design : 
+![Screenshot 2025-10-17 114242.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d82e733ade85204e237e08d1484cf01850781546/Screenshot%202025-10-17%20114242.png)
+
+
+With this i finally conclude the build of my first project in blueprint . 
+
+  
 
